@@ -1,0 +1,35 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: arial:
+}
+
+.card {
+background-color: white;
+width: 300px;
+padding : 16px;
+border-radius: 20px;
+text-align: center;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+.card h1 {
+    font-size: 22px;
+}
+.card p {
+    color: gray
+}
+
+.footer {
+    margin-top: 16px;
+    display: flex;
+    justify-content: bottom;
+    text-align: center;
+}
+
